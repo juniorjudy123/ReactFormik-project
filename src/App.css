@@ -1,0 +1,5 @@
+.formCentered {
+	width: 300px; /* Set the desired width of the centered area */
+	border: 1px solid #ccc; /* Optional border for visual reference */
+	padding: 20px;
+}
